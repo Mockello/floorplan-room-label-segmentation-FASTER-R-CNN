@@ -1,0 +1,9 @@
+opencv-python
+matplotlib
+lxml
+tqdm
+pycocotools
+beautifulsoup4
+torch>=1.13
+torchvision
+detectron2
